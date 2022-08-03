@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bman3940
+- 👋 Hi, I’m @DanThomas3940
 - 👀 I’m interested in becoming the best developer in the universe.
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on assigned projects.
